@@ -1,0 +1,10 @@
+ider_names: Sequence[str],
+):
+    """
+    Validates the 'providers' and 'provider_options' arguments and returns a
+        normalized version.
+
+    :param providers: Optional sequence of providers in order of decreasing
+        precedence. Values can either be provider names or tuples of
+        (provider name, options dict).
+    :param provider_options: Optional sequence of options dicts

@@ -1,0 +1,9 @@
+AI/ML Engineer specializing in Agentic AI, multi-agent systems, and RAG pipelines.
+
+Experience in:
+- LangChain, LangGraph, ChromaDB
+- Building autonomous systems with tool execution and memory
+- HPC systems with AI-driven monitoring and scaling
+- Computer vision for drone and CCTV systems
+
+Strong focus on building real-world AI systems that integrate perception, reasoning, and execution.
