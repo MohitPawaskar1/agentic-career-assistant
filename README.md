@@ -60,7 +60,7 @@ Looking for experience in Slurm HPC cluster management
 1. Clone the repository:
 
 ```
-git clone https://github.com/<your-username>/agentic-career-assistant.git
+git clone https://github.com/MohitPawaskar1/agentic-career-assistant.git
 cd agentic-career-assistant
 ```
 
